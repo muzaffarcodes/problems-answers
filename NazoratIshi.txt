@@ -1,0 +1,87 @@
+"""
+#1. 2 ta raqamni 3-o'zgaruvchisiz bir biri bilan almashtiring.
+
+#2. Sonni teskarisini chiqaradigan dastur yozing.
+
+#3. So'zni teskarisini chiqaradigan dastur yozing.
+
+#4. List ichidagi elementlarni teskarisiga chiqaradigan dastur yozing.
+
+#5. List ichida biror element necha marta takrorlanganini topadigan dastur yozing.
+
+#6. lambda function yordamida juft yoki toq sonni aniqlaydigan dastur yozing.
+
+#7. ikkita sonni "+" ya'ni qo'shish operatorini ishlatmagan holda qo'shing.
+
+#8. for yordamida belgilardan tashkil topgan uchburchak shaklini chiqaradigan dastur yozing.
+
+#9. n ta fibonachi seriyasini faylga yozadigan dastur yozing.
+
+#10. # 3 ga 3 matritsa berilgan, dioganallarini yigindisini absolyut farqlarini toping
+
+# 3 4 5
+# 6 7 8 
+# 1 2 4
+
+# 3 + 7 + 4 = 14 
+# 1 + 7 + 5 = 13
+
+# |13 - 14| = 1
+
+#11. berilgan listni o'sib borish tartibida sortlash 3 xil usulda ishlang
+
+#lst4 = [2,3,4,1,5,7,11,10,8];
+
+#12. raqam kiritilsa o'sha raqamni so'zga aylantirib beradigan dastur yozing.
+
+#13. a = [[1,2,3],[4,5,6,7],[8,9,10,11,12]]
+# list comprehensiondan foydalanib hamma list ichidagi raqamlarni qoshing.
+
+#14.  Stringlardan tashkil topgan list kiriting va list comprehensiondan foydalangan holda
+# faqat "a"  harfi bor so'zlarnigina consolega chiqaring    
+
+#15. foydalanuvchi 10 ta son kiritsin, kiritilgan sonlarni 
+#list korinishida consolega chiqaring, foydalanuvchi sondan boshqa narsa kiritsa,
+#dastur portlamasin.
+
+#16. sonni palindrome ekanligini aniqlaydigan dastur yozing.
+
+#17. sozni palindrome ekanligini aniqlaydigan dastur yozing.
+
+#18.  list ichidagi elementlarni hammasini shunchaki consolega chiqaring
+# list comrehensiondan foydalangan holda.
+
+lst = [
+       [
+        [1,2,3],
+        [4,5,6]
+       ],
+       [
+        [7,8,9],
+        [1,2,3]
+       ],
+       [
+        [1,2,3],
+        [1,2,3]
+       ]
+      ]
+
+#19. listda bir xil raqamlar kop marta takrorlangan shularni 
+# yangi listga unique ya'ni takrorlanmaydigan qilib ko'chiring
+# misol: [1,1,2,2,3,3,4,4,5,5,6,6,7,]
+# natija: [1,2,3,4,5,6,7] 
+
+
+#20. # toq elementdan tashkil topgan list berilgan [2,3,4,2,4,5,1]
+# listni osib borish tartibida sortlang va 
+# listni ortasidagi sonni aniqlaydigan dastur tuzing.
+
+#21. Sqldan kichik bir xohlagan proyekt qiling.
+
+#22. PyQt5 dan foydalanib, kalkulyator yasang. 
+
+#23. PyQt5 dan foydalanib, login page yasang. 
+
+#24. OOP dan foydalanib pult boshqaradigan dastur tuzing.
+
+"""
